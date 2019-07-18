@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: icarus
+theme: clover
 
 # Tag
 ## Docs:
@@ -135,7 +135,7 @@ robotstxt:
   sitemap: /sitemap.xml
 
 imagemin:
-  enable     : true
+  enable     : false
   interlaced : false
   multipass  : false
   optimizationLevel: 2
@@ -152,3 +152,12 @@ uglify:
   compress:
   exclude:
       - "*.min.js"
+
+# hexo-tag-emojis plugin configuration
+emojis:
+  image_dir: images/emojis
+
+medium_image_plugin:
+    image_path: 'img'
+    max_width: 680
+    

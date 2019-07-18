@@ -9,5 +9,5 @@ tags:
 	- nosql 
 ---
 {% asset_img "jsql-injection-1000x571.jpg" "nosql injection"%}
-<!--more--<
+<!--more-->
 
