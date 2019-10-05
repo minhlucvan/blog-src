@@ -5,7 +5,7 @@
 # Site
 title: Minh Luc's Blog
 subtitle: I'm a developer, I make the world a better place.
-description: blog cá nhân của Lục Văn Minh. cuộc đời dưới góc của một developer. Persional blog of minhlucvan. 
+description: blog cá nhân của Lục Văn Minh. cuộc đời dưới góc của một developer. personal blog of minhlucvan. 
 author: Minh Luc 
 language: vi
 timezone: Antarctica/Davis
@@ -93,7 +93,7 @@ sitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:minhlucvan/minhlucvan.github.io.git
+  repo: https://github.com/minhlucvan/minhlucvan.github.io.git
   branch: master
   name: minhlucvan
   email: luk.mink@gmail.com
