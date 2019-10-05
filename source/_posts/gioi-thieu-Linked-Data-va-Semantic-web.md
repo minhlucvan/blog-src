@@ -6,9 +6,11 @@ tags:
 	- web 3.0
 	- semantic
 categories:
-	- công nghệ		 
+	- công nghệ		
+thumbnailImage: semantic-web.jpg
+thumbnailImagePosition: left
+coverImage: 1.jpeg
 ---
-![](/image/posts/gioi-thieu-Linked-Data-va-Semantic-web/1.jpeg)
 > **Linked Data** (dữ liệu liên kết) và **Semantic web** (web mang ý nghĩa) là cái gì? nói một cách đơn giản thì  Semantic web là một công nghệ của [web 3.0](/tags/web-3.0) - một cách để liên kết dữ liệu giữa các hệ thống, các thực thể để làm phong phú thêm thông tin, tự mô tả tương quan của dữ liệu có sẵn trên bộ các web trên phạm vi toàn cầu.  
 
 <!--more-->

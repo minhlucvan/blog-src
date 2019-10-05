@@ -1,12 +1,15 @@
 ---
+
 title: 'Yahoo 360, cái chết của một con thiên nga'
 date: 2016-07-26 02:19:07
 tags:
-	- lan mam
+	- "lan mam"
 categories:
-	- chuyện đời
+	- "chuyện đời"
+thumbnailImage: Black_Swan.jpg
+thumbnailImagePosition: left
+cover: 1.jpg
 ---
-{% asset_img 1.jpg "no caption" %}
 
 rảnh lục lại đống ghi chú trên facebook thấy bài viết từ một năm trước, đọc lại thấy hơi buồn cười :D
 

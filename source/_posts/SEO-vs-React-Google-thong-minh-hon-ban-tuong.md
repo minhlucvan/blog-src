@@ -2,13 +2,14 @@
 title: 'SEO vs. React: Google thông minh hơn bạn tưởng!'
 date: 2016-10-21 16:35:50
 tags:
-	- react
-	- SEO
+	- "react"
+	- "SEO"
 categories:
-	- chuyện nghề
+	- "chuyện nghề"
+thumbnailImage: react-seo.png
+thumbnailImagePosition: left
+coverImage: cover.png
 ---
-
-{% asset_img cover.png "React vs SEO" %}
 
 Ngày nay các úng dụng web đang dần thay thế dần các website truyền thống với một loạt các công nghệ hiên đại để xây dựng ứng dụng web từ ajax-based, Backbone, Angular, Ember,  React rồi Web-components... Nhưng một trong nhưng điểm Nhiều nghười vẫn lo ngại chính là những ứng dụng web không thân thiện với SEO, liệu điều đó thực hư ra sao???
 

@@ -1,15 +1,17 @@
 ---
+layout: post
 title: Dependency Injection - xương sống của Angular 2.x
 date: 2017-03-29 12:20:33
 tags: 
-	- front-end
-	- angularjs
-	- design pattern
+	- "front-end"
+	- "angularjs"
+	- "design pattern"
 categories:
-	- lập trình
-thumbnail: ./angular2-Depnedency-injction-1.png
+	- "lập trình"
+thumbnailImage: angular2.png
+thumbnailImagePosition: left
+coverImage: angular2-Depnedency-injction-1.png
 ---
-{% asset_img "angular2-Depnedency-injction-1.png" "Angular Dependency Injection" %}
 
 Dao này lu bu cơm áo gạo tiền quá nên blog hơi bị mốc meo rồi :), tiện thể đang có một dự án sài Angular 2, hôm nay mình sẽ viết một bài về xương số của NG2 đó chính là **Dependency Injection** - **DI**. vậy thì  thực chất **DI** là gì, chúng ta hãy cùng tìm hiểu nhé.
 <!--more-->

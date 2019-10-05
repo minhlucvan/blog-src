@@ -1,20 +1,21 @@
 ---
 title: Bạn đã thực sự hiểu generator function?
 date: 2016-11-18 09:01:47
-thumbnail: http://minhlv.ga/2016/11/18/Ban-da-thuc-su-hieu-generator-function/es6-logo.png
 categories:
-    - lập trình
+    - "lập trình"
 tags:
-    - javascript
-    - deep dive
-    - es6
+    - "javascript"
+    - "deep dive"
+    - "es6"
+thumbnailImage: es6-logo.png
+thumbnailImagePosition: left
 ---
-
-{% asset_img "javascript-generator-funtion.png" "javascript generator function" %}
 
 Hello anh em, hình như blog chưa có bài viết nào về [#ES6](/tags/es6) cả hôm nay mình sẽ quết định viết về **generator function** vì thành thật mà nói mình cũng chưa thực sự hiểu thằng này lắm :3, tiện đây mình sẽ giới thiệu một số ứng dụng cũng như tiềm năng của tính năng này trong các tác vu thực tế. 
 
 <!--more-->
+
+{% image "javascript-generator-funtion.png" "javascript generator function" %}
 
 ## cái nhìn đầu tiên 
 

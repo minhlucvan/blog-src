@@ -1,15 +1,19 @@
 ---
+
 title: REDUX tuổi trẻ tài cao
 date: 2016-06-28 22:15:25
 tags:
-	- redux
-	- framework
-	- javascript
-	- Flux
+	- "redux"
+	- "framework"
+	- "javascript"
+	- "Flux"
 categories:
-	- công nghệ		
+	- "công nghệ"
+thumbnailImage: redux.png
+thumbnailImagePosition: left
+coverImage: redux-1.png 
+		
 ---
-{% asset_img redux-1.png "redux" %}
 
 Có một đều còn làm bạn "bối rối" hơn cả Flux chính là phân biệt Flux với Redux, một pattern phảt lấy cảm hứng từ Flux. Bài viết này sẽ chỉ ra những điểm khác biệt giữa hài pattern này.
 
@@ -21,7 +25,7 @@ Redux được tạo ra để giải quết các vấn đề giống như Flux c
 
 cũng như Flux, Redux sinh ra để quản lý các trạng thái của ứng dụng, làm cho các trạng thái trở nên dễ tiên đoán hơn (predictable). Nếu bạn muốn thay đổi trạn thái bạn buộc phải phun ra một action. Bạn sẽ không thể thay đổi thạng thái một cách trực tiếp vì phần lưu thạng thái (Store) chỉ có getter không có setters. về cơ bản thì Redux và Flux thực sự rất giống nhau.
 
-So why a different pattern? Redux creator Dan Abramov saw an opportunity to improve on Flux. He wanted better developer tools. He saw that if you moved a couple of things around, you could make better developer tools possible, but still have the same predictability that Flux gives you.
+So why a different pattern? Redux creator Dan Abramov w an opportunity to improve on Flux. He wanted better developer tools. He saw that if you moved a couple of things around, you could make better developer tools possible, but still have the same predictability that Flux gives you.
 
 Vậy điểm khác biệt ở đây là gì? tác giả của Redux @Dan Abramov đã nhìn thấy những tiềm năng của Flux, Ông ấy có một bộ công cụ phát triển tốt hơn, Ông thấy rằng nếu thay đổi một số thứ, bạn có thể có một công cụ hoàn hảo hơn trong khi vẫn có được đầy đủ các tính năng mà Flux đem lại.
 

@@ -2,11 +2,15 @@
 title: 'Thọc sâu vào JS: Null vs undefined'
 date: 2016-12-15 15:11:59
 categories: 
-	- lập trình
+	- "lập trình"
 tags:
-	- javascript
-	- deep dive
-	- language
+	- "javascript"
+	- "deep dive"
+	- "language"
+thumbnailImage:  null-vs-undefined.jpg
+thumbnailImagePosition: left
+coverImage: null-loves-undefined.png
 ---
-{% asset_img "null-loves-undefined.png" "null and undefined" %}
+undefined
 <!--more-->
+undefined

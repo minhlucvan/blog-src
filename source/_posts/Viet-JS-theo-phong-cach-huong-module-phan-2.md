@@ -2,14 +2,15 @@
 title: Viết JS theo phong cách hướng module - phần 2
 date: 2016-09-21 06:52:29
 tags: 
-	- javascript
-	- design pattern
-	- programing
+	- "javascript"
+	- "design pattern"
+	- "programing"
 categories:
-	- lập trình	
+    - "lập trình"	
+thumbnailImage: module-patern.jpg
+thumbnailImagePosition: left
+coverImage: module.jpg
 ---
-
-{% asset_img module.jpg "module" %}
 
 Tiếp nối series về java module hóa trong javascript hôm nay chúng ta sẽ đề cập đến một đề cũng rất quan trọng đó chính là bundeling. Với nodejs hoặc một số framework font-end như Angular 2, React dều recommend viết hướng module và chia ra nhiều file khác nhau đến khi build các file sẽ được gộp lại một file duy nhất và thực thi, còn với các úng dụng tự xây dựng thì sao?. bài viết này sẽ đề cập đến vấn sử dụng browersify và babel để module hóa ứng dụng ra từng file và build lại để dược một ứng dụng hoàn chỉnh, like a boss :D.
 <!--more-->

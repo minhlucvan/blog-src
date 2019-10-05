@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Minh Blog
+title: Minh Luc's Blog
 subtitle: I'm a developer, I make the world a better place.
 description: blog cá nhân của Lục Văn Minh. cuộc đời dưới góc của một developer. Persional blog of minhlucvan. 
-author: minhlucvan
+author: Minh Luc 
 language: vi
-timezone:
+timezone: Antarctica/Davis
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://minhlv.ga
+url: /
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: clover
+theme: tranquilpeak
 
 # Tag
 ## Docs:
@@ -160,4 +160,7 @@ emojis:
 medium_image_plugin:
     image_path: 'img'
     max_width: 680
-    
+
+auto_dir_categorize:
+    enable: true  # options:true, false; default is true
+    force: false # options:true, false; default is falsesss

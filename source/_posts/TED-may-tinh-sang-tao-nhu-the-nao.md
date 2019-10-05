@@ -2,18 +2,19 @@
 title: '[TED] máy tính sáng tạo như thế nào?'
 date: 2016-07-24 13:13:55
 tags:
-	- AI
-	- machine learning
-	- TED
+	- "AI"
+	- "machine learning"
+	- "TED"
 categories:
-	- công nghệ	 	
+	- "công nghệ"
+thumbnailImage: gan.jpeg
+thumbnailImagePosition: left	
 ---
 
-{% youtube uSUOdu_5MPc %}
 Lang thang qua [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug) bắt gặp một talk rất hay về AI do một Lead của google chia sẻ. Xem qua tựu dưng muôn viết cái gì đó :)
 
 <!--more-->
-
+{% youtube uSUOdu_5MPc %}
 
 Một thập kỷ trở lại đây loài người đã có những bước tiến lớn trong công nghệ nói chung và công nghệ máy tính nói riếng. Một trong những tiến bộ đưọc chú ý cũng như gây ra nhiều tranh cãi nhất chính là Artificial intelligence (AI) - trí tuệ nhân tạo. nhiều nhà khoa học máy tính trên toàn thế giới trong đó có GOOGLE đang nghiên cứu cách mà bộ não con người sáng tạo và hy vong một ngày nào đó có thể tạo ra một máy tính có thế sáng tạo, cá nhân mình mình thấy điều này hoàn toàn khả thi trong khoảng một thập kỷ tới.
 

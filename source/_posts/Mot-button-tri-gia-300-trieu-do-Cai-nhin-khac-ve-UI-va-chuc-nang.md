@@ -1,13 +1,18 @@
 ---
 title: Một button trị giá 300 triệu đô - Cái nhìn khác về UI và chức năng
 date: 2016-06-13 04:26:31
-thumbnail: /image/posts/Mot-button-tri-gia-300-trieu-do-Cai-nhin-khac-ve-UI-va-chuc-nang/1.jpg 
-categories: ["chuyện nghề"]
-tags: ["UI/UX", "E-comence", "web"]
+categories: 
+	- "chuyện nghề"
+tags:
+	- "UI/UX"
+	- "E-comence"
+	- "web"
+thumbnailImage: 1.jpg 
+thumbnailImagePosition: left
+coverImage: 1.jpg
 ---
-![ ](/image/posts/Mot-button-tri-gia-300-trieu-do-Cai-nhin-khac-ve-UI-va-chuc-nang/1.jpg)
 
-### ngày xửa ngày xưa có một trang web bán hàng... 
+ **ngày xửa ngày xưa có một trang web bán hàng...**
  
 Câu chuyện của chúng ta bắt đầu ở chức năng “Thanh toán”, khi người dùng đã cho hết hàng vào giỏ, một form nho nhỏ xinh xinh hiện ra, với 2 trường username và password, 2 nút Login và Register, một link Quên mật khẩu. Thế nhưng, chính cái form be bé xinh xinh này đã gây thiệt hại đến 300.000.000$/năm cho trang web bán hàng.
 <!--more-->

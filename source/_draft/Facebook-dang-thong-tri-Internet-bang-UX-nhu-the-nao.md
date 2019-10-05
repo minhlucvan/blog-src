@@ -2,11 +2,11 @@
 title: Facebook đang thống trị Internet bằng UX như thế nào?
 date: 2016-06-13 22:34:37
 categories:
-	- chuyện nghề 
+	- "chuyện nghề" 
 tags:
-	- social
-	- UI/UX
-	- web
+	- "social"
+	- "UI/UX"
+	- "web"
 ---
 
 ![Mark Zuckerberg phát biểu tại hội thảo Facebook F8 Developers tại  San Francisco, California, U.S. Ảnh: David Paul Morris/Bloomberg qua Getty Images](/image/posts/Facebook-dang-thong-tri-Internet-bang-UX-nhu-the-nao/facebook-mark-zuckerberg-speech-speaking-stage.jpg)

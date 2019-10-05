@@ -1,12 +1,13 @@
 ---
+
 title: Sandbox 1 - awsome submit button
 date: 2016-11-20 06:24:29
 categories:
-    - lập trình
+    - "lập trình"
 tags:
-    - sandbox
-    - front-end
-    - ui/ux
+    - "sandbox"
+    - "front-end"
+    - "ui/ux"
 keywords:
 	- html
 	- html5
@@ -14,10 +15,13 @@ keywords:
 	- css3
 	- animation
 	- button
-	- nút bấm
+  - nút bấm
+thumbnailImage: awsome-submit.png
+thumbnailImagePosition: left 
+coverImage: awsome-submit.gif
 description: hôm nay của chúng ta là là xây xựng một nút submit có thể dùng cho form, upload file, xóa file... như hình cover ở trên thay vì tốn diện tích cho tất cả các progress bar, har alert tất cả sẽ được buit-in trong một nút duy nhất thôi. vô tình thấy được ý tưởng này trên  mạng thấy khá hay nên quên định trển luôn vào cuối tuần.
+
 ---
-{% asset_img awsome-submit.gif "awsome submit button"%}
 
 Xin chào, hôm nau mình xin được giới thiệu một chuên mục nóng hổi vừa thổi vừa ăn, đó cính là [#sandbox](/tags/sandbox), đúng như cái tên của nó sandbox sẽ là nơi mình show những sản phẩm siêu nhỏ mà mình làm trõng những lúc rảnh rỗi, như những lâu đài cayys thôi tất cả chỉ làm trong vòng vài tiếng và chủ yếu mang tính chất giải trí là chính. Để khởi đâu cho loạt bài này hôm nay mình sẽ quết định làm cái gì thực tế một chút, một nút submit của tương lai, ít nhất thì mình tinh là thế :D.
 <!--more-->

@@ -1,17 +1,17 @@
 ---
+
 title: không ai là vô dụng
 date: 2016-08-01 16:19:52
 tags:
-	- linh tinh
+	- "linh tinh"
 categories:
-	- chuyện đời	
+	- "chuyện đời"
+thumbnailImage: zootopia.jpeg
+thumbnailImagePosition: left
+coverImage: 1.jpg
 ---
-
-{% asset_img "1.jpg" "no body useless" %}
-<!--more-->
-# Không có ai là vô dụng
-
 Có một chàng trai, không thi vào đại học, cha mẹ đã tìm một người vợ cưới về cho anh. Sau khi kết hôn, anh dạy học tại một trường tiểu học trong làng. Vì không có kinh nghiệm, nên chưa đầy một tuần anh đã bị học sinh tẩy chay, khiến anh bị sa thải.
+<!--more-->
 
 Trở về nhà, người vợ khẽ khàng lau nước mắt cho anh, an ủi nói: “Những việc không vừa ý mình thì có đầy ra đó, có người trút ra được, cũng có người trút không được, anh không cần phải thương tâm như vậy, cũng sẽ có nhiều việc thích hợp hơn đang chờ anh kia mà”.
 

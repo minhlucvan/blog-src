@@ -1,16 +1,20 @@
 ---
+
 title: Flux là cái quái gì nhỉ
 date: 2016-08-07 23:53:52
 tags:
-	- Flux
-	- javascript
-	- design pattern
-	- framework
-	- fontend
+	- "Flux"
+	- "javascript"
+	- "design pattern"
+	- "framework"
+	- "fontend"
 categories:
-	- công nghệ	
+	- "công nghệ"	
+thumbnailImage: flux.jpeg
+thumbnailImagePosition: left
+coverImage: 1.png
+
 ---
-{% asset_img "1.png" %}
 
 Flux là một kiến trúc cho cho font-end do Faceebook phát triển với mục đích giải quyết chính những vấn đề Facebook gặp phải.  Kiến trúc này giúp quản lý các hành động (actions)  trạng thái (state) của ứng dụng một cách đồng bộ và dễ tiên đoán (predicable), nhất là với các ứng dụng có cấu trúc phức tạp như Facebook. bài viết này sẽ giới thiệu về Flux cũng như cách hoạt động của nó.  
 

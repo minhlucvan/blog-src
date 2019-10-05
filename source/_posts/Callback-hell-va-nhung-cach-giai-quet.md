@@ -1,19 +1,21 @@
 ---
+
 title: Callback hell và những cách giải quết
 date: 2016-11-29 17:13:29
 categories: 
-	- lập trình
+	- "lập trình"
 tags:
-	- javascript
-	- trick
+	- "javascript"
+	- "trick"
+coverImage: callback-hell.png
+thumbnailImage: code-callback-hell.jpg
+thumbnailImagePosition: left
 ---
-{% asset_img callback-hell.png "what the hell" %}
-
 Với nhiều người mới làm việc với JS thì callback đúng là một cái gì đó nguy hiểm, thực sự là như vậy! nếu có một vài tác vụ bất đồng bộ cái này lần lượt thục hiện tiếp sau cái kia mà bạn viết không cẩn thị thì cái mà bạn tạo ra chính là một ``call back hell``.
+
 <!--more-->
 
-
-ví dụ tôi càn làm 4 tác vụ (bất đồng bộ ) lần lượt sau vái này tiếp sau cái kia, cách viết như sau chính là ``callback hell``  
+Giả sử tôi càn làm 4 tác vụ (bất đồng bộ ) lần lượt sau vái này tiếp sau cái kia, cách viết như sau chính là ``callback hell``  
 
 ```javascript
 

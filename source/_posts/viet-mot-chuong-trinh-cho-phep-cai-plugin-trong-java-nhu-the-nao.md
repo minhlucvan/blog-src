@@ -1,15 +1,15 @@
 ---
 title: viết một chương trình cho phép cài plugin trong java như thế nào?
 date: 2016-08-06 19:08:51
-+ thumbnail: http://minhlv.ga/2016/08/06/viet-mot-chuong-trinh-cho-phep-cai-plugin-trong-java-nhu-the-nao/plugin_icon.jpg
 tags:
-	- design pattern
-	- java
+	- "design pattern"
+	- "java"
 categories:
-	- lập trình	
+	- "lập trình"
+thumbnailImage: plugin_icon.jpg
+thumbnailImagePosition: left
+coverImage: plugin.png
 ---
-
-{% asset_img "plugin.png" "java plugin" %}
 
 Chả là đang tập tọe làm wordpress plugin, bỗng dưng nảy ra câu hỏi thế cài đặt plugin trong java như thế nào. Trước giờ cũng chỉ làm theo kiểu yêu cầu đến đâu viết đến đấy chứ chưa được làm kiểu plugin này bao giờ cả. Đành hỏi bác Gúc vậy. sau một hồi đào bới cũng gọi là nắm đưọc đôi phần, note ra đây cho bác nào cùng chung thắc mắc.
 

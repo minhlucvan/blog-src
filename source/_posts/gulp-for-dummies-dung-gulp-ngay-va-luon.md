@@ -6,9 +6,12 @@ tags:
 	- tool
 	- development
 categories: 
-	- công nghệ	
+	- công nghệ
+thumbnailImage: gulp.png
+thumbnailImagePosition: left 
+coverImage: gulp.jpg
 ---
 
-{% asset_img gulp.jpg gulp %}
-
+TODO
 <!--more-->
+abc

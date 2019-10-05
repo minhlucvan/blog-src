@@ -1,16 +1,19 @@
 ---
+
 title: 'quy trình làm một project :D'
 date: 2016-07-06 19:37:48
 tags:
-	- dev vui
-	- chuyện nghề
-	- chuyện đời
+	- "dev vui"
+	- "chuyện nghề"
+	- "chuyện đời"
 categories:
-	- chuyện nghề	
+	- "chuyện nghề"
+thumbnailImage: Construction-Project-Management-Software-market.png
+thumbnailImagePosition: left
+coverImage: 1.jpg
 ---
-{% asset_img 1.jpg "project" %}
-
-một câu chuyện vui nhưng cũng rất thực tế về qui trình làm một dự án IT.
+ Đầu tiên là thằng Sales nó sẽ gặp khách hàng, dụ dỗ chào mời, đưa giá làm trong 5 tháng (project cỡ trung bình)
+}
 <!--more-->
 
  Đầu tiên là thằng Sales nó sẽ gặp khách hàng, dụ dỗ chào mời, đưa giá làm trong 5 tháng (project cỡ trung bình)

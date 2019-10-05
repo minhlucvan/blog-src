@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Golang 1 - Giới thiệu về Golang
 date: 2016-11-26 06:47:29
 categories:
@@ -6,10 +7,10 @@ categories:
 tags:
 	- golang
 	- backend
+thumbnailImage: golang.png
+thumbnailImagePosition: left
+coverImage: tai-sao-nen-hoc-ngon-ngu-lap-trinh-gogolang.png
 ---
-
-
-{% asset_img "golang.png" "hello golang" %}
 
 Alô, chào toàn thể anh em, vốn bản tính tò mò yêu thích những cái mới kể từ hôm nay mình sẽ quết định học thêm một ngôn ngữ backend nữa, sau một hồi cân nhắc mình quết định đi sâu hơn vào  **Go** một ngôn ngữ phát triển bởi **Google**, để mở đầu cho loạt bài này bài viết hôm nay mình sẽ giới thiệu tổng quan của ngôn ngữ này cũng như những nhận xét ban đầu của bannr thân mình khi lần đầu được tiếp xúc và trải ngiệm ngôn ngữ này,
 <!--more-->

@@ -2,9 +2,15 @@
 title: Tại sao Web Accessibility lại quan trọng?
 date: 2016-09-21 07:50:38
 tags:
-	- web
-	- accessibility
+	- "web"
+	- "accessibility"
 categories: 
-	- chuyện nghề	
+	- "chuyện nghề"	
+thumbnailImage: web-accessibility.jpeg 
+thumbnailImagePosition: left
+coverImage: mir3.png
 ---
-{% asset_img mir3.png  "accessibility"%}
+quan trong
+<!--more-->
+TODO: write
+anksdkn

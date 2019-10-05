@@ -1,9 +1,11 @@
 ---
 title: Những bức ảnh đầy thú vị bởi Lucas Levitan
 date: 2017-01-07 14:07:14
+thumbnailImage: Funny-Photo-Invasions-by-Lucas-Levitan-11-900x900.jpeg
+thumbnailImagePosition: left
+coverImage: Funny-Photo-Invasions-by-Lucas-Levitan-1-900x567.jpg
+coverCaption: photo by Lucas Levitan
 ---
-
-{% asset_img "Funny-Photo-Invasions-by-Lucas-Levitan-1-900x567.jpg" "photo by Lucas Levitan" %}
 
 trong cuộc sống đầy  bộn bề đôi khi chúng ta lại bỏ qua những nét đẹp bình dị xung quanh. với góc nhìn đầy tinh tế và những nhận vật hoạt hình vô cùng cute  Lucas Levitan đã thổi hồn vào những bức ảnh đầy sống dộng. chúc mọi người cuối thuần vui vẻ.
 <!--more-->

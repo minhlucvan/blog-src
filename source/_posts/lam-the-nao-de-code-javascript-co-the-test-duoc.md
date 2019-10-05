@@ -1,4 +1,5 @@
 ---
+layout: post
 title: làm thế nào để code javascript có thể test được?
 date: 2016-12-19 12:38:42
 categories: 
@@ -6,6 +7,9 @@ categories:
 tags:
 	- javascript
 	- testing
+thumbnailImage: unit-test.jpg
+thumbnailImagePosition: left
 ---
-{% asset_img "unit-test.jpg" "unit test" %}
+hello
 <!--more-->
+hello

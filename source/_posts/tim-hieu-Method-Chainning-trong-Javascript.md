@@ -2,15 +2,18 @@
 title: tìm hiểu Method Chainning trong Javascript
 date: 2016-06-21 00:13:53
 tags:
-	- programing
-	- javascript
-	- tricks
-	- design pattern
+	- "programing"
+	- "javascript"
+	- "tricks"
+	- "design pattern"
 categories:
-	- lập trình
+  - "lập trình"
+
+thumbnailImage: method_chaining.png
+thumbnailImagePosition: left
+coverImage: JS_Chaining.jpg
 ---
 
-{% asset_img JS_Chaining.jpg "method chaining" %}
 Method chaining là một trong những patterm quen thuộc với những Javascript Programer. Bài viết mình sẽ gới thiệu Method Chainning là gì, cách cài đặt và những trường hợp thích hợp sử dụng patterm này. he, bắt đẩu thôi!
 
 <!--more-->
