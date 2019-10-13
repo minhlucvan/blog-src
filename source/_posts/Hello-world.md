@@ -3,8 +3,9 @@ title: Hello world
 date: 2016-06-12 05:41:15
 tags:
 thumbnailImage: hello-world.png
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: hello.jpg
+coverMeta: out
 ---
  Đã muốn viết blog từ lâu mà không có cơ hội hay đúng hơn là lười nhân cơ hội vừa nhảy việc nên quết định làm 1 blog nho nhỏ cho mình.
  <!--more-->

@@ -17,8 +17,9 @@ keywords:
 	- button
   - nút bấm
 thumbnailImage: awsome-submit.png
-thumbnailImagePosition: left 
+thumbnailImagePosition: right 
 coverImage: awsome-submit.gif
+coverMeta: out
 description: hôm nay của chúng ta là là xây xựng một nút submit có thể dùng cho form, upload file, xóa file... như hình cover ở trên thay vì tốn diện tích cho tất cả các progress bar, har alert tất cả sẽ được buit-in trong một nút duy nhất thôi. vô tình thấy được ý tưởng này trên  mạng thấy khá hay nên quên định trển luôn vào cuối tuần.
 
 ---

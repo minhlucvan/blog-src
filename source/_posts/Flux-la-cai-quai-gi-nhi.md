@@ -11,9 +11,9 @@ tags:
 categories:
 	- "công nghệ"	
 thumbnailImage: flux.jpeg
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: 1.png
-
+coverMeta: out
 ---
 
 Flux là một kiến trúc cho cho font-end do Faceebook phát triển với mục đích giải quyết chính những vấn đề Facebook gặp phải.  Kiến trúc này giúp quản lý các hành động (actions)  trạng thái (state) của ứng dụng một cách đồng bộ và dễ tiên đoán (predicable), nhất là với các ứng dụng có cấu trúc phức tạp như Facebook. bài viết này sẽ giới thiệu về Flux cũng như cách hoạt động của nó.  

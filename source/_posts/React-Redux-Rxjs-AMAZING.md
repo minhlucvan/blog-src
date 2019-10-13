@@ -10,8 +10,9 @@ tags:
 categories:
   - "công nghệ"	
 thumbnailImage: redux.png
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: cover.jpeg 
+coverMeta: out
 ---
 
 Với các ứng dụng front-end nói chung và ứng dụng dơn trang nói riêng [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) hay [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) xem ra không đủ để quản lý trạng thái nhất là các ứng dụng có trạng thái phúc tạp hôm nào rảnh mình sẽ viết một bài về MVC - client-side , còn hôm nay chúng ta sẽ đề cập đến React. Một trong những điều mình thấy thú vị nhất với React chính là hệ sinh thái xung quanh nó với số lượng và chất lượng ngày càng tăng lên, có lẽ bởi vì React đã gãi đúng chỗ ngứa của các dev nên nhận được sự ủng hộ và đóng góp rất lớn của cộng đồng mà nguồn mở trên toàn thế giới. Bài viết này sẽ giới thiệu một bộ combo rất mạnh mẽ với các font-end developer đó là React + Redux + ReactiveX.

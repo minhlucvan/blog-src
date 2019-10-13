@@ -10,8 +10,9 @@ categories:
   - "lập trình"
 
 thumbnailImage: method_chaining.png
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: JS_Chaining.jpg
+coverMeta: out
 ---
 
 Method chaining là một trong những patterm quen thuộc với những Javascript Programer. Bài viết mình sẽ gới thiệu Method Chainning là gì, cách cài đặt và những trường hợp thích hợp sử dụng patterm này. he, bắt đẩu thôi!

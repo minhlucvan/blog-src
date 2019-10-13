@@ -8,7 +8,7 @@ tags:
 categories:
 	- "công nghệ"
 thumbnailImage: gan.jpeg
-thumbnailImagePosition: left	
+thumbnailImagePosition: right	
 ---
 
 Lang thang qua [TED](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug) bắt gặp một talk rất hay về AI do một Lead của google chia sẻ. Xem qua tựu dưng muôn viết cái gì đó :)

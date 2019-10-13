@@ -7,8 +7,9 @@ tags:
 categories:
 	- "chuyện đời"
 thumbnailImage: zootopia.jpeg
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: 1.jpg
+coverMeta: out
 ---
 Có một chàng trai, không thi vào đại học, cha mẹ đã tìm một người vợ cưới về cho anh. Sau khi kết hôn, anh dạy học tại một trường tiểu học trong làng. Vì không có kinh nghiệm, nên chưa đầy một tuần anh đã bị học sinh tẩy chay, khiến anh bị sa thải.
 <!--more-->

@@ -8,7 +8,7 @@ tags:
     - "deep dive"
     - "es6"
 thumbnailImage: es6-logo.png
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 ---
 
 Hello anh em, hình như blog chưa có bài viết nào về [#ES6](/tags/es6) cả hôm nay mình sẽ quết định viết về **generator function** vì thành thật mà nói mình cũng chưa thực sự hiểu thằng này lắm :3, tiện đây mình sẽ giới thiệu một số ứng dụng cũng như tiềm năng của tính năng này trong các tác vu thực tế. 

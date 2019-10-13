@@ -8,8 +8,9 @@ tags:
 	- "javascript"
 	- "trick"
 coverImage: callback-hell.png
+coverMeta: out
 thumbnailImage: code-callback-hell.jpg
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 ---
 Với nhiều người mới làm việc với JS thì callback đúng là một cái gì đó nguy hiểm, thực sự là như vậy! nếu có một vài tác vụ bất đồng bộ cái này lần lượt thục hiện tiếp sau cái kia mà bạn viết không cẩn thị thì cái mà bạn tạo ra chính là một ``call back hell``.
 

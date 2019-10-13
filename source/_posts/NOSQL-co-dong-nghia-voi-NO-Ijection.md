@@ -9,8 +9,9 @@ tags:
 	- "database" 
 	- "nosql" 
 thumbnailImage: database-injection.jpg
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: jsql-injection-1000x571.jpg
+coverMeta: out
 coverCaption: nosql injection
 ---
 

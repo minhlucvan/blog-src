@@ -10,8 +10,9 @@ tags:
 categories:
 	- "công nghệ"
 thumbnailImage: redux.png
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: redux-1.png 
+coverMeta: out
 		
 ---
 

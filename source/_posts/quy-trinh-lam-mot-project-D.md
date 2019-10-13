@@ -9,8 +9,9 @@ tags:
 categories:
 	- "chuyện nghề"
 thumbnailImage: Construction-Project-Management-Software-market.png
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: 1.jpg
+coverMeta: out
 ---
  Đầu tiên là thằng Sales nó sẽ gặp khách hàng, dụ dỗ chào mời, đưa giá làm trong 5 tháng (project cỡ trung bình)
 }

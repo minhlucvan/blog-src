@@ -7,8 +7,9 @@ tags:
 categories: 
 	- "chuyện nghề"	
 thumbnailImage: web-accessibility.jpeg 
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: mir3.png
+coverMeta: out
 ---
 quan trong
 <!--more-->

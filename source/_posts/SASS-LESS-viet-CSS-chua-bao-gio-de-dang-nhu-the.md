@@ -9,8 +9,9 @@ tags:
 categories:
 	- "công nghệ"
 thumbnailImage: sass.png
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: sass-less--1.png
+coverMeta: out
 ---
 TODO
 <!--more-->

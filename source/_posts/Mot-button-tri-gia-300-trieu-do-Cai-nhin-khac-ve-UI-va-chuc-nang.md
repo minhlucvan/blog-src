@@ -8,8 +8,9 @@ tags:
 	- "E-comence"
 	- "web"
 thumbnailImage: 1.jpg 
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: 1.jpg
+coverMeta: out
 ---
 
  **ngày xửa ngày xưa có một trang web bán hàng...**

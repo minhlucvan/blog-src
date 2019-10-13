@@ -2,8 +2,9 @@
 title: Những bức ảnh đầy thú vị bởi Lucas Levitan
 date: 2017-01-07 14:07:14
 thumbnailImage: Funny-Photo-Invasions-by-Lucas-Levitan-11-900x900.jpeg
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: Funny-Photo-Invasions-by-Lucas-Levitan-1-900x567.jpg
+coverMeta: out
 coverCaption: photo by Lucas Levitan
 ---
 

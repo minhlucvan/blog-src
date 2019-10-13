@@ -7,8 +7,9 @@ tags:
 categories:
 	- "lập trình"
 thumbnailImage: plugin_icon.jpg
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: plugin.png
+coverMeta: out
 ---
 
 Chả là đang tập tọe làm wordpress plugin, bỗng dưng nảy ra câu hỏi thế cài đặt plugin trong java như thế nào. Trước giờ cũng chỉ làm theo kiểu yêu cầu đến đâu viết đến đấy chứ chưa được làm kiểu plugin này bao giờ cả. Đành hỏi bác Gúc vậy. sau một hồi đào bới cũng gọi là nắm đưọc đôi phần, note ra đây cho bác nào cùng chung thắc mắc.
@@ -477,5 +478,3 @@ Xin chân thành cảm ơn bộ code mẫu của [@Ulf Dittmer](http://www.javar
 
 Phùu... cảm ơn ae đã theo dõi đến tận đây, bài đã dài tay quay đã mỏi mình xin phép dừng phím tại đây. chúc ae cuối tuần vui vẻ.
 xin chào thân ái và quết thắng. 
-
-[minhlv](http://minhlv.ga)

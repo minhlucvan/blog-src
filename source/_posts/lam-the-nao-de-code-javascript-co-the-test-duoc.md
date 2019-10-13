@@ -8,7 +8,7 @@ tags:
 	- javascript
 	- testing
 thumbnailImage: unit-test.jpg
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 ---
 hello
 <!--more-->

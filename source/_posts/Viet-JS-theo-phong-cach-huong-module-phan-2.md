@@ -8,8 +8,9 @@ tags:
 categories:
     - "lập trình"	
 thumbnailImage: module-patern.jpg
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: module.jpg
+coverMeta: out
 ---
 
 Tiếp nối series về java module hóa trong javascript hôm nay chúng ta sẽ đề cập đến một đề cũng rất quan trọng đó chính là bundeling. Với nodejs hoặc một số framework font-end như Angular 2, React dều recommend viết hướng module và chia ra nhiều file khác nhau đến khi build các file sẽ được gộp lại một file duy nhất và thực thi, còn với các úng dụng tự xây dựng thì sao?. bài viết này sẽ đề cập đến vấn sử dụng browersify và babel để module hóa ứng dụng ra từng file và build lại để dược một ứng dụng hoàn chỉnh, like a boss :D.

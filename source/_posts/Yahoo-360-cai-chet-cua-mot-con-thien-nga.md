@@ -7,7 +7,7 @@ tags:
 categories:
 	- "chuyện đời"
 thumbnailImage: Black_Swan.jpg
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 cover: 1.jpg
 ---
 

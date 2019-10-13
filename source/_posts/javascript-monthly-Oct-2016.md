@@ -8,8 +8,9 @@ tags:
 categories:
 	- bookmarks
 thumbnailImage: thumb.png	
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: top_10.png"
+coverMeta: out
 ---
 Xin chào anh em, kể từ tháng này Blog nhà mình sẽ có thêm một chuyên mục mới đó là Javascript Monthly (cheers...........), đây sẽ là nơi tổng hợp những bài viết hay nhất trong tháng về cộng đồng javascript trên toàn thế giới. Hy vọng sẽ mang tới được cho anh em những bài viết thực sự chất.
 <!--more-->

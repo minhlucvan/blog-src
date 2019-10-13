@@ -8,8 +8,9 @@ tags:
 categories: 
 	- công nghệ
 thumbnailImage: gulp.png
-thumbnailImagePosition: left 
+thumbnailImagePosition: right 
 coverImage: gulp.jpg
+coverMeta: out
 ---
 
 TODO

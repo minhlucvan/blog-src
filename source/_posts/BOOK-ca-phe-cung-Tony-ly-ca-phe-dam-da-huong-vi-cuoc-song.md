@@ -9,14 +9,15 @@ tags:
 categories:
 	- "chuyện đời"
 coverImage: reasons-to-drink-coffee-daily.jpp
+coverMeta: out
 thumbnailImage: reasons-to-drink-coffee-daily.jpg
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 ---
 
 thực tình mà nói mình không mấy khi đọc sách của các tác giả việt Nam không phải vì sính ngoại gì đâu nhưng thực sự mấy quển mình đọc qua đèu không đủ kiên nhẫn đọc hết 10 trang đầu cả :(, nhưng dạo này thấy quển sách mới của dượng [Tony](http://tuoitre.vn/tin/van-hoa-giai-tri/20150115/tony-cu-an-danh-di-vay/699069.html) hot quá nên tò mò đọc thử. với hiểu biết sâu rộng, nhẫn quan tinh tế và giọng văn cuốn hút cuốn sách đã hút hồn mình ngày từ những trang đầu tiên.
 
 <!--more-->
-
+ 
 {% image ca-phe-cung-tony-buoi-sang-review.jpg %}
 
 Cà phê cùng Tony là sự tập hợp các bài viết trên trạng mạng xã hội của tác giả Tony Buổi Sáng (TnBS) về những bài học, câu chuyện anh đã trải nghiệm trong cuộc sống. Đó có thể là cách anh chia sẻ với các bạn trẻ về những chuyện to tát như khởi nghiệp,đạo đức kinh doanh, học tập đến những việc nhỏ nhặt như ăn mặc, giao tiếp, vệ sinh cơ thể… sao cho văn minh, lịch sự. Hay chỉ đơn giản thuật lại những trải nghiệm thực tế của anh trong quá trình sống, kinh doanh ở trong và ngoài nước.

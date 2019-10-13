@@ -8,8 +8,9 @@ tags:
 	- "deep dive"
 	- "language"
 thumbnailImage:  null-vs-undefined.jpg
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 coverImage: null-loves-undefined.png
+coverMeta: out
 ---
 undefined
 <!--more-->
