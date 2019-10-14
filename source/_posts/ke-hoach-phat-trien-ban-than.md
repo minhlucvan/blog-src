@@ -4,9 +4,14 @@ date: 2019-10-13 19:22:45
 tags:
 thumbnailImage: one-percent.png
 thumbnailImagePosition: right
+coverImage: running-cover.jpg
+coverMeta: in
 ---
 
-> Chúng ta giành cả cuộc đời mình chỉ để trả lời một câu hỏi duy nhất thôi, "hạnh phúc là gì"?
+Chúng ta giành cả cuộc đời mình chỉ để trả lời một câu hỏi duy nhất thôi.
+
+> **"Hạnh phúc là gì?"**
+
 <!--more-->
 Hạnh phúc là khi được cất tiêngs khóc chào đời, là khi có gia đình bên cạnh, là khi có những điều mình muốn,, khi được ai đó yêu thương, khi được đóng góp cho xã hội .... định nghĩa hạnh phúc của mỗi chúng ta dều không ai giống ai. Có những người mưu cầu hạnh phúc cho bản thân mình, có người chăm lo hạnh phúc cho gia đình, có người hy sinh cho con cái, có những người hạnh phúc khi cống hiến cho dân tộc,có những bậc vĩ nhân hạnh phúc khi đóng góp được cho nhân loại. vậy chúng ta là ai trong số đó. Bạn, tôi và bao nhiêu người ngoài kia thực sự rất muốn có được câu trả lời.
 

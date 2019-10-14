@@ -9,6 +9,8 @@ tags:
 	- testing
 thumbnailImage: unit-test.jpg
 thumbnailImagePosition: right
+coverImage: software-testing.jpg
+coverMeta: in
 ---
 hello
 <!--more-->
